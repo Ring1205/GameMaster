@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\project\\gamemaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\optionscreen.xml",
+        "source": "E:\\project\\gamemaster\\app\\src\\main\\res\\layout\\optionscreen.xml"
+    },
+    {
+        "merged": "E:\\project\\GameMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainscreen.xml",
+        "source": "E:\\project\\GameMaster\\app\\src\\main\\res\\layout\\mainscreen.xml"
+    },
+    {
+        "merged": "E:\\project\\GameMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\levelscreen.xml",
+        "source": "E:\\project\\GameMaster\\app\\src\\main\\res\\layout\\levelscreen.xml"
+    },
+    {
+        "merged": "E:\\project\\GameMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\optionscreen.xml",
+        "source": "E:\\project\\GameMaster\\app\\src\\main\\res\\layout\\optionscreen.xml"
+    },
+    {
+        "merged": "E:\\project\\gamemaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\levelscreen.xml",
+        "source": "E:\\project\\gamemaster\\app\\src\\main\\res\\layout\\levelscreen.xml"
+    },
+    {
+        "merged": "E:\\project\\gamemaster1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainscreen.xml",
+        "source": "E:\\project\\gamemaster1\\app\\src\\main\\res\\layout\\mainscreen.xml"
+    },
+    {
+        "merged": "E:\\project\\gamemaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\project\\gamemaster\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\project\\GameMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\project\\GameMaster\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\project\\gamemaster1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\optionscreen.xml",
+        "source": "E:\\project\\gamemaster1\\app\\src\\main\\res\\layout\\optionscreen.xml"
+    },
+    {
+        "merged": "E:\\project\\gamemaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainscreen.xml",
+        "source": "E:\\project\\gamemaster\\app\\src\\main\\res\\layout\\mainscreen.xml"
+    },
+    {
+        "merged": "E:\\project\\gamemaster1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\levelscreen.xml",
+        "source": "E:\\project\\gamemaster1\\app\\src\\main\\res\\layout\\levelscreen.xml"
+    },
+    {
+        "merged": "E:\\project\\gamemaster1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\project\\gamemaster1\\app\\src\\main\\res\\layout\\splash.xml"
+    }
+]

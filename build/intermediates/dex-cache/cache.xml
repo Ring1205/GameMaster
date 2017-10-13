@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\project\gamemaster1\app\libs\jbox2d-2.0.1-full.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae095d2c1a6102ca33426cfe19adec94d325bce0">
+        <dex dex="E:\project\gamemaster1\app\build\intermediates\pre-dexed\debug\jbox2d-2.0.1-full_423c14e191f9c4d4f680b1e271340739a8f4f656.jar" />
+    </item>
+
+</items>

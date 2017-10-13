@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\project\\gamemaster\\app\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "E:\\project\\gamemaster\\app\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "E:\\project\\GameMaster\\app\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "E:\\project\\GameMaster\\app\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "E:\\project\\gamemaster\\app\\build\\intermediates\\res\\merged\\debug\\anim\\appear.xml",
+        "source": "E:\\project\\gamemaster\\app\\src\\main\\res\\anim\\appear.xml"
+    },
+    {
+        "merged": "E:\\project\\GameMaster\\app\\build\\intermediates\\res\\merged\\debug\\anim\\appear.xml",
+        "source": "E:\\project\\GameMaster\\app\\src\\main\\res\\anim\\appear.xml"
+    },
+    {
+        "merged": "E:\\project\\gamemaster1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\appear.xml",
+        "source": "E:\\project\\gamemaster1\\app\\src\\main\\res\\anim\\appear.xml"
+    },
+    {
+        "merged": "E:\\project\\gamemaster1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "E:\\project\\gamemaster1\\app\\src\\main\\res\\anim\\disappear.xml"
+    }
+]
